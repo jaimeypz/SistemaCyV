@@ -1,0 +1,5 @@
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Presentacion\obj\Debug\net5.0-windows\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Presentacion\obj\Debug\net5.0-windows\Sistema.Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Presentacion\obj\Debug\net5.0-windows\Sistema.Presentacion.AssemblyInfoInputs.cache
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Presentacion\obj\Debug\net5.0-windows\Sistema.Presentacion.AssemblyInfo.cs
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Presentacion\obj\Debug\net5.0-windows\Sistema.Presentacion.csproj.CoreCompileInputs.cache

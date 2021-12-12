@@ -1,0 +1,6 @@
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb

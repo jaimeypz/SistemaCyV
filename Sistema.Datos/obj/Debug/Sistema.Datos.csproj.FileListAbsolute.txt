@@ -1,0 +1,11 @@
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Datos\bin\Debug\System.Data.SqlClient.dll
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Datos\bin\Debug\System.Data.SqlClient.xml
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Proyectos\SistemaDesktop\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
